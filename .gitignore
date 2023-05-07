@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+python_venv_1/
 eggs/
 .eggs/
 lib/
